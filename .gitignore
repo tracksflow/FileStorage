@@ -1,0 +1,10 @@
+/.idea
+/client/c#/fs.suo
+/client/c#/_ReSharper.fs
+/client/c#/FSLib/bin
+/client/c#/FSLib/obj
+/client/c#/UploadHelper/bin
+/client/c#/UploadHelper/obj
+/client/c#/ExampleApp/bin
+/client/c#/ExampleApp/obj
+/client/c#/fs.sln.DotSettings.user
